@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-07-01T15:45:22 IST" name="Default suite" finished-at="2024-07-01T15:45:23 IST" duration-ms="637">
+    <groups>
+    </groups>
+    <test started-at="2024-07-01T15:45:22 IST" name="Default test" finished-at="2024-07-01T15:45:23 IST" duration-ms="637">
+      <class name="ExcelAutomation.dataExtracter">
+        <test-method signature="testcasedata(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:ExcelAutomation.dataExtracter@c9d0d6]" started-at="2024-07-01T15:45:23 IST" name="testcasedata" data-provider="TestDataDrive" finished-at="2024-07-01T15:45:23 IST" duration-ms="10" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Hello]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[text ]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[1]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcasedata -->
+        <test-method signature="testcasedata(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:ExcelAutomation.dataExtracter@c9d0d6]" started-at="2024-07-01T15:45:23 IST" name="testcasedata" data-provider="TestDataDrive" finished-at="2024-07-01T15:45:23 IST" duration-ms="2" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[bye]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[message]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[2]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcasedata -->
+        <test-method signature="testcasedata(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:ExcelAutomation.dataExtracter@c9d0d6]" started-at="2024-07-01T15:45:23 IST" name="testcasedata" data-provider="TestDataDrive" finished-at="2024-07-01T15:45:23 IST" duration-ms="2" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Be]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Confident]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[3]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcasedata -->
+        <test-method signature="testcasedata(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:ExcelAutomation.dataExtracter@c9d0d6]" started-at="2024-07-01T15:45:23 IST" name="testcasedata" data-provider="TestDataDrive" finished-at="2024-07-01T15:45:23 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Always]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[positive]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[4]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcasedata -->
+      </class> <!-- ExcelAutomation.dataExtracter -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
